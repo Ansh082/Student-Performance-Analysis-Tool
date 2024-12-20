@@ -11,11 +11,11 @@ Line charts to show trends over time.
 7. User Interface: Develop a simple GUI using Tkinter or a web-based interface using Flask for ease of use.
 
 Tools and Libraries:
-Pandas: For data manipulation and analysis.
-NumPy: For numerical operations.
-Matplotlib/Seaborn: For data visualization.
-Scikit-learn: For implementing machine learning models.
-Tkinter/Flask: For creating the user interface.
+1. Pandas: For data manipulation and analysis.
+2. NumPy: For numerical operations.
+3. Matplotlib/Seaborn: For data visualization.
+4. Scikit-learn: For implementing machine learning models.
+5. Tkinter/Flask: For creating the user interface.
 
 
 # Following is the code for the tool
